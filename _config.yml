@@ -20,7 +20,7 @@ title                    : "Rakesh Acharya Dharoori"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Rakesh Acharya Dharoori"
-description              : &description "I ❤ research -- I think Deeply about putting AI on Edge!!,Interests => {AI,DL,Edge AI,Self Driving Cars}"
+description              : &description "I ❤ research -- I think Deeply about putting AI on Edge!!.I work on A.I algorithms and models."
 url                      : https://rakeshacharya-d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rakeshacharya-d/rakeshacharya-d.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,10 @@ analytics:
 author:
   name             : &name "Rakesh Acharya.D"
   avatar           : "IMG_1097 (4).JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : &bio "I ❤ research -- I think Deeply about putting AI on Edge!!,Interests => {AI,DL,Edge AI,Self Driving Cars}"
+  bio              : &bio "I ❤ research -- I think Deeply about putting AI on Edge!!.I work on A.I algorithms and models."
   location         : "Chennai,India"
   email            : "rakeshacharya.daruri@gmail.com"
+  github           : rakeshacharya-d
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
