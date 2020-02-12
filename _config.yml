@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : &name"Rakesh Acharya Dharoori"
+  name             : &name "Rakesh Acharya Dharoori"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : &bio"I ❤ research -- I think [Deep]'ly about putting AI on Edge!!,{AI,DL,Edge AI,Self Driving Cars}"
   location         : "Chennai,India"
