@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Rakesh Acharya Dharoori"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name"Rakesh Acharya Dharoori"
+name                     : &name "Rakesh Acharya Dharoori"
 description              : &description "I ❤ research -- I think [Deep]'ly about putting AI on Edge!!,{AI,DL,Edge AI,Self Driving Cars}"
 url                      : https://rakeshacharya-d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
