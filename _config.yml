@@ -124,7 +124,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa-linkedin-square"
       url: "https://www.linkedin.com/in/d-rakesh-acharya-396390135"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
