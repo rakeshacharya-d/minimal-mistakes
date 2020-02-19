@@ -113,6 +113,7 @@ author:
   location         : "Chennai,India"
   email            : "rakeshacharya.daruri@gmail.com"
   github           : rakeshacharya-d
+  linkedin         : "https://www.linkedin.com/in/d-rakesh-acharya-396390135"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -125,7 +126,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/d-rakesh-acharya-396390135"
+      #url: "https://www.linkedin.com/in/d-rakesh-acharya-396390135"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       #url: "https://github.com/rakeshacharya-d"
