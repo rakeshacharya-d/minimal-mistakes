@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : &name "Rakesh Acharya.D"
-  avatar           : "newone_840x840.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "IMG_1097 (4).JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : &bio "I ❤ research -- I think Deeply about putting AI on Edge!!.I work on A.I algorithms and models."
   location         : "Chennai,India"
   email            : "rakeshacharya.daruri@gmail.com"
