@@ -20,7 +20,7 @@ title                    : "Rakesh Acharya Dharoori"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Rakesh Acharya Dharoori"
-description              : &description "Deep Learning Research,Computer Programming.I ❤ research : Unsupervised Learning,Edge AI.I think Deeply about putting AI on Edge!!."
+description              : &description "Full stack developer,AI nerd.{I ❤ research}."
 url                      : https://rakeshacharya-d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rakeshacharya-d/rakeshacharya-d.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : &name "Rakesh Acharya.D"
   avatar           : "IMG_1097 (4).JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : &bio "I ❤ research -- Deep Technologies,Unsupervised Learning,Edge AI.I think Deeply about putting AI on the Edge."
+  bio              : &bio "Full stack developer,AI nerd.I ❤ research -- I think Deeply about putting AI on the Edge."
   location         : "Chennai,India"
   email            : "rakeshacharya.daruri@gmail.com"
   github           : rakeshacharya-d
