@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a machine learning researcher and computer programmer. I am currently an Electronics and Computer Engineering Undergrad  at Vellore Institute of Technology,India .
+I'm a Full-Stack Developer and Technologist at heart.I've done my Bachelors in Electronics and Computer Engineering (2020) at Vellore Institute of Technology,India.
 
-My career interests have been defined by two sets of work: machine learning platforms, research in machine learning
+My career interests have been defined by two sets of work: Software Development(web/mob/dev), research in AI.
 
 **Machine Learning Platforms**
 
