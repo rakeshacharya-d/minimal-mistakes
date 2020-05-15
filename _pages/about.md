@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+**About Me**
 
 I'm a Full-Stack Developer and Technologist at heart.I've done my Bachelors in Electronics and Computer Engineering (2020) at Vellore Institute of Technology,India.
 
