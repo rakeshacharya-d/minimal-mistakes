@@ -283,9 +283,9 @@ compress_html:
 
 
 # Defaults
-defaults :
-  #_posts
-  - scope :
+defaults:
+  # _posts
+  - scope:
       path: ""
       type: posts
     values:
@@ -295,12 +295,5 @@ defaults :
       comments: # true
       share: true
       related: true
-   #_pages
-   - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 theme: jekyll-theme-cayman
