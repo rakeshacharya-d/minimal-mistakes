@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "Code"
     url: " "
-  - title: "Thoughts!"
+  - title: "Research"
     url: " "
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Thoughts"
+   url: " "
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
