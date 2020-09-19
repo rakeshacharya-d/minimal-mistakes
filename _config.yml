@@ -109,7 +109,7 @@ analytics:
 author:
   name             : &name "Rakesh Acharya.D"
   avatar           : "IMG_1097 (4).JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : &bio "Software Engineer , AI Researcher.❤ to Build -- Technologist at heart"
+  bio              : &bio "Technologist at ❤ -- I think DEEPly about AI on the EDGE"
   location         : "Chennai,India"
   email            : "rakeshacharya.daruri@gmail.com"
   github           : rakeshacharya-d
