@@ -20,7 +20,7 @@ title                    : "Rakesh Acharya Dharoori"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Rakesh Acharya Dharoori"
-description              : &description "Software Engineer | AI Researcher. ❤ to Build -- Technologist at heart."
+description              : &description "Technologist at ❤ -- I think DEEPly about AI on the EDGE"
 url                      : https://rakeshacharya-d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rakeshacharya-d/rakeshacharya-d.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
